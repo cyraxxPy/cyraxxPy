@@ -2,4 +2,4 @@
 
 ## Hello there
 
-> Discord: **cyraxx#1001 https://www.github.com/cyraxxPy**
+> Discord: **cyraxx#1001 https://discord.gg/HKtQmtj**
