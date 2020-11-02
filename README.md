@@ -1,5 +1,5 @@
 ![👀](https://cdn.discordapp.com/emojis/627547441314660367.gif)
 
-## Hello there
+## Hello there!
 
-> Discord: **cyraxx#1001 https://discord.gg/HKtQmtj**
+> Discord: **cyraxx#2086 https://discord.gg/PYxf8YS**
