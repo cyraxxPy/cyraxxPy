@@ -181,11 +181,11 @@ Hello world ! I'm <span style="color:yellow;">cyraxx</span><br>aka <span style="
   <summary><b>⌨️ GitHub Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="cyraxx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cyr4xx69&show_icons=true&count_private=true&theme=midnight-purple" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="cyraxx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cyraxxPy&show_icons=true&count_private=true&theme=midnight-purple" height="192px"/></a>
 <br/>
 <!-- MOST USED LANGUAGE -->
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyr4xx69&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="cyr4xx69JS" height="128px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyraxxPy&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="cyr4xx69JS" height="128px"/>
   <br/>
   </p>
 </details>
@@ -206,7 +206,7 @@ Hello world ! I'm <span style="color:yellow;">cyraxx</span><br>aka <span style="
 <br>
 <br>
   &emsp;
-	<a href="https://github.com/cyr4xx69/"><img src="https://img.icons8.com/clouds/50/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/cyraxxPy/"><img src="https://img.icons8.com/clouds/50/github.png" alt="GitHub"/></a>
 	<a href="mailto:teamgalaxy479@gmail.com"><img src="https://img.icons8.com/clouds/50/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.instagram.com/rexc.zh/"><img src="https://img.icons8.com/clouds/50/instagram.png" alt="Instagram"/></a>
 	<!-- a href="https://myanimelist.net/profile/cyr4xx69"><img src="https://img.icons8.com/clouds/50/myanimelist.png" alt="MyAnimeList"/></a -->
@@ -226,7 +226,7 @@ Hello world ! I'm <span style="color:yellow;">cyraxx</span><br>aka <span style="
         <img alt="MyAnimeList" src="https://img.shields.io/badge/myanimelist-2E51A2.svg?style=for-the-badge&logo=myanimelist&logoColor=white">
     &emsp;
         <a href="https://github.com/cyraxxPy" target="_blank">
-        <img alt="Old GitHub (Lost)" src="https://img.shields.io/badge/GitHub (Lost)-181717.svg?style=for-the-badge&logo=github&logoColor=white">
+        <img alt="Alt GitHub (Inactive)" src="https://img.shields.io/badge/GitHub (Inactive)-181717.svg?style=for-the-badge&logo=github&logoColor=white">
     &emsp;
     </a>
     </p>
