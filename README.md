@@ -210,7 +210,7 @@ Hello world ! I'm <span style="color:yellow;">cyraxx</span><br>aka <span style="
 	<a href="mailto:teamgalaxy479@gmail.com"><img src="https://img.icons8.com/clouds/50/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.instagram.com/rexc.zh/"><img src="https://img.icons8.com/clouds/50/instagram.png" alt="Instagram"/></a>
 	<!-- a href="https://myanimelist.net/profile/cyr4xx69"><img src="https://img.icons8.com/clouds/50/myanimelist.png" alt="MyAnimeList"/></a -->
-	<a href="https://tested-limpet-499.notion.site/279dffa548fb49dc8aa88643ac94085b?v=40ed59712c9845eca93db38cac4e5a0f"><img src="https://img.icons8.com/clouds/50/notion.png" alt="Notion"/></a>
+	<a href="#willupdatelater"><img src="https://img.icons8.com/clouds/50/notion.png" alt="Notion"/></a>
    </h1>
 <br>
   
