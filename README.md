@@ -6,7 +6,7 @@ Hello world ! I'm <span style="color:yellow;">cyraxx</span><br>aka <span style="
 <br>
 
 <p  align="center">
-<a  href="https://github.com/cyr4xx69"><img  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3200&pause=900&color=cc00ff&center=true&width=500&height=50&lines=Computer+Science;JavaScript+/+Python;Always+Learning;Self+Taught;Seeking+new+experiences"></a>
+<a  href="https://github.com/cyr4xx69"><img  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3200&pause=900&color=cc00ff&center=true&width=500&height=50&lines=JavaScript+/+Python;Always+Learning;Self+Taught;Seeking+new+experiences"></a>
 </p>
 <br>
 <hr/>
